@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "VDV38D1Z",
   "me": {
-    "id": "923189023946@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "923189023946:1@s.whatsapp.net"
+  },
+  "account": {
+    "details": "CLXWsp8EEMH56MQGGAEgACgA",
+    "accountSignatureKey": "t5z7S2Si+rrQzKzHO+PuzHDjCgkMRrQDF0na1ON2Vyo=",
+    "accountSignature": "m3MKTGrBpZ1elh3j2pmJPKbD7LbxAWVxEfDSW6rhUpVkAjWzQC8VMc6sdQ6hpjK0woqkkfeA460+Hy+EzsSTAg==",
+    "deviceSignature": "3T3ZiOZfwdrg6rWM0AlYb8XcOc9pPEwgi4zqsoidwaNV9SyF1OyRzACn2omGqlJ8rdQneC9oqNhkNkCqSNv1iA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "923189023946:1@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "Bbec+0tkovq60Mysxzvj7sxw4woJDEa0AxdJ2tTjdlcq"
+      }
+    }
+  ],
+  "platform": "android"
 }
