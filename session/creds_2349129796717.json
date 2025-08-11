@@ -49,8 +49,8 @@
   "registrationId": 175,
   "advSecretKey": "CMgsLvdAnrxPTTcDliSfISswhQvtpHHJMubmdhNJ66U=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "8RGP6MW3",
   "me": {
     "id": "2349129796717:12@s.whatsapp.net",
-    "name": "IMB GADGETS AND TECH"
+    "name": "IMB GADGETS AND TECH",
+    "lid": "136430105927870:12@lid"
   },
   "account": {
     "details": "CLOS49oDEO+B6cQGGAEgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CAIIBQ=="
   },
-  "lastAccountSyncTimestamp": 1754939644
+  "lastAccountSyncTimestamp": 1754939644,
+  "lastPropHash": "nm3Bb",
+  "myAppStateKeyId": "AAAAAG8Y"
 }
