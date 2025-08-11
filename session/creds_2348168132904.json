@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "352LGSSD",
   "me": {
-    "id": "2348168132904@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "2348168132904:9@s.whatsapp.net"
+  },
+  "account": {
+    "details": "CJuQ3f8GEKjt6cQGGAEgACgA",
+    "accountSignatureKey": "eHXd/qCgwNn9IDKfTNt8ZHzyevYe5SvFsektdyRVDR8=",
+    "accountSignature": "MBFb0XAedN0gEIw23+PuCbwyXurgHXxFKDHRuhhE/4hu0OX0WIpErm+UAevgCKh0+X/G01wLff2bHASRUXWDDA==",
+    "deviceSignature": "VsQx24+qkMpPpUYCFjQBOhm+2+d6LXEHPrSWk14ro5UhRwIs8A+pQTHDe5ommH+WN3x/pY6pl6NTRCF476uEjA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "2348168132904:9@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BXh13f6goMDZ/SAyn0zbfGR88nr2HuUrxbHpLXckVQ0f"
+      }
+    }
+  ],
+  "platform": "android"
 }
