@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "8RGP6MW3",
   "me": {
-    "id": "2349129796717@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "2349129796717:12@s.whatsapp.net",
+    "name": "IMB GADGETS AND TECH"
+  },
+  "account": {
+    "details": "CLOS49oDEO+B6cQGGAEgACgA",
+    "accountSignatureKey": "y3O1K1FqEeBXoJOoo46SN6xiv3XtxCTGILCgeSCQxE0=",
+    "accountSignature": "2CM1+fJS1x/jMMBJYMlslPXVyJKsNs74OWQhwg8+7+lmziCNGH6v1VmKYj5kAAQbQpOCccDg/c3fpVG7aFpoAA==",
+    "deviceSignature": "AfNSeolnyX+kIUaAdZARDz65G5wthM1htfan4KRM90v4wjXfqy2/iOK0BzQl58AETgDxqHLwwx4VW2Ay7mlgDg=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "2349129796717:12@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BctztStRahHgV6CTqKOOkjesYr917cQkxiCwoHkgkMRN"
+      }
+    }
+  ],
+  "platform": "smba"
 }
