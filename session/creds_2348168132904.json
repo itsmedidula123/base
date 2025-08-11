@@ -48,7 +48,16 @@
   },
   "registrationId": 69,
   "advSecretKey": "g3cdgn54rO6+bWyicIf6tnlKShemkNQq+Rsug/N+1rw=",
-  "processedHistoryMessages": [],
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "2348168132904@s.whatsapp.net",
+        "fromMe": true,
+        "id": "E4B2F62DF41E6E4E55DF44F2537DDDF9"
+      },
+      "messageTimestamp": 1754953403
+    }
+  ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
