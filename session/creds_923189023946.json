@@ -64,6 +64,14 @@
         "id": "FFC6EAD6F85121585E97A6710950C0BA"
       },
       "messageTimestamp": 1754938575
+    },
+    {
+      "key": {
+        "remoteJid": "923189023946@s.whatsapp.net",
+        "fromMe": true,
+        "id": "00F5DCF6745D2F524CFBB80E20B9B50A"
+      },
+      "messageTimestamp": 1754938585
     }
   ],
   "nextPreKeyId": 31,
@@ -76,7 +84,8 @@
   "pairingCode": "VDV38D1Z",
   "me": {
     "id": "923189023946:1@s.whatsapp.net",
-    "lid": "234024832397330:1@lid"
+    "lid": "234024832397330:1@lid",
+    "name": "Mr.X"
   },
   "account": {
     "details": "CLXWsp8EEMH56MQGGAEgACgA",
