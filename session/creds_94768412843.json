@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "K8SX641A",
   "me": {
-    "id": "94768412843@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94768412843:45@s.whatsapp.net"
+  },
+  "account": {
+    "details": "CI6A/80GEI2q6sQGGAEgACgA",
+    "accountSignatureKey": "FJYJOzncxWyDmHGW6f70wbcCn6+ejYpwo6e3J2G1mls=",
+    "accountSignature": "PeEVJqMctoZi5kYFls/IpDdy0Cu8/mBMRz0hnxAdJTHuqzSoR6PZG1U6f6DH7d6zHsRUkalDPuM/Vdvz+zkvBw==",
+    "deviceSignature": "cJ/QW0a7Mqv8ThjgGHTexO/p1L7RBxfq1cKKG+hqAbCDzMK+DqlMRNa9eay6a3Cd5sLIB1gf0NzJ7V1J2sRtAw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94768412843:45@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BRSWCTs53MVsg5hxlun+9MG3Ap+vno2KcKOntydhtZpb"
+      }
+    }
+  ],
+  "platform": "android"
 }
