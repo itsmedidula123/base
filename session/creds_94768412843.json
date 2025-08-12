@@ -58,7 +58,8 @@
   "registered": true,
   "pairingCode": "K8SX641A",
   "me": {
-    "id": "94768412843:45@s.whatsapp.net"
+    "id": "94768412843:45@s.whatsapp.net",
+    "lid": "186604064878677:45@lid"
   },
   "account": {
     "details": "CI6A/80GEI2q6sQGGAEgACgA",
@@ -83,5 +84,7 @@
     "type": "Buffer",
     "data": "CA0IEg=="
   },
-  "lastAccountSyncTimestamp": 1754961179
+  "lastAccountSyncTimestamp": 1754961179,
+  "lastPropHash": "2V77qU",
+  "myAppStateKeyId": "AAAAAK9w"
 }
