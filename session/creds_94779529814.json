@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "RDLR8PTW",
   "me": {
-    "id": "94779529814@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94779529814:9@s.whatsapp.net"
+  },
+  "account": {
+    "details": "CIDelN8BEMrH6sQGGAEgACgA",
+    "accountSignatureKey": "qxHJ5hC/4Ytf1AF9R20MgWgHyKMJ3q5VCHdmAtQELTI=",
+    "accountSignature": "4n7HgIT0zozzLAnOR72bPetq6vcLhRXZvGxzZ0G7zfkWZ6wz0NxIPRwFoRLgTs09AJQ2LJDNZkmuzbGZ+0ZiAg==",
+    "deviceSignature": "tDXyR+iSDNuTtINRU9NQ1uplS14Ia549IB77D9jAcseWXKmYibm7ysOi7HOcnArmX3AQt0l019uo9A2uqQOtCQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94779529814:9@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BasRyeYQv+GLX9QBfUdtDIFoB8ijCd6uVQh3ZgLUBC0y"
+      }
+    }
+  ],
+  "platform": "android"
 }
