@@ -82,8 +82,8 @@
       "messageTimestamp": 1755025137
     }
   ],
-  "nextPreKeyId": 34,
-  "firstUnuploadedPreKeyId": 34,
+  "nextPreKeyId": 113,
+  "firstUnuploadedPreKeyId": 113,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -93,7 +93,7 @@
   "me": {
     "id": "94725963819:62@s.whatsapp.net",
     "lid": "132697947156669:62@lid",
-    "name": "🖤𝑇ℎ𝑖𝑠ℎ𝑎𝑛 𝑏𝑜𝑦🤞🏻(6)"
+    "name": "94725963819"
   },
   "account": {
     "details": "CJ6R9ysQu5nuxAYYDyAAKAA=",
