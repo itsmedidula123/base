@@ -78,5 +78,10 @@
       }
     }
   ],
-  "platform": "android"
+  "platform": "android",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CBIICA=="
+  },
+  "lastAccountSyncTimestamp": 1754964951
 }
