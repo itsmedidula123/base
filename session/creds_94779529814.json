@@ -49,8 +49,8 @@
   "registrationId": 234,
   "advSecretKey": "G3uIZ+WJ1dWwblR+1Ip02Xy2BkkP/PDP/lfCxkgkZgE=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -58,7 +58,8 @@
   "registered": true,
   "pairingCode": "RDLR8PTW",
   "me": {
-    "id": "94779529814:9@s.whatsapp.net"
+    "id": "94779529814:9@s.whatsapp.net",
+    "lid": "121908905402548:9@lid"
   },
   "account": {
     "details": "CIDelN8BEMrH6sQGGAEgACgA",
@@ -83,5 +84,6 @@
     "type": "Buffer",
     "data": "CBIICA=="
   },
-  "lastAccountSyncTimestamp": 1754964951
+  "lastAccountSyncTimestamp": 1754964951,
+  "lastPropHash": "1K4hH4"
 }
