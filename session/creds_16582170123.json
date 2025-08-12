@@ -74,8 +74,8 @@
       "messageTimestamp": 1755018370
     }
   ],
-  "nextPreKeyId": 158,
-  "firstUnuploadedPreKeyId": 158,
+  "nextPreKeyId": 219,
+  "firstUnuploadedPreKeyId": 219,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -85,7 +85,7 @@
   "me": {
     "id": "16582170123:13@s.whatsapp.net",
     "lid": "37688908447791:13@lid",
-    "name": "16582170123"
+    "name": "Stich💔🧸."
   },
   "account": {
     "details": "COifpuwBEIXo7cQGGAUgACgA",
@@ -112,5 +112,5 @@
   },
   "lastAccountSyncTimestamp": 1755018256,
   "lastPropHash": "3R9Z39",
-  "myAppStateKeyId": "AAAAAPRc"
+  "myAppStateKeyId": "AAAAAPRi"
 }
