@@ -48,17 +48,36 @@
   },
   "registrationId": 238,
   "advSecretKey": "2z4IJ3wKAiBvxxQMziTTQHLDZlB4N7hXl2Dcupmiu1k=",
-  "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
-  "accountSyncCounter": 0,
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "94763398509@s.whatsapp.net",
+        "fromMe": true,
+        "id": "5EC067CFD3A82174B8BC57C79036B39D"
+      },
+      "messageTimestamp": 1755100378
+    },
+    {
+      "key": {
+        "remoteJid": "94763398509@s.whatsapp.net",
+        "fromMe": true,
+        "id": "202A48D689C3693B8754D46F2E3A700B"
+      },
+      "messageTimestamp": 1755100379
+    }
+  ],
+  "nextPreKeyId": 33,
+  "firstUnuploadedPreKeyId": 33,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
   "registered": true,
   "pairingCode": "S2MJD4SL",
   "me": {
-    "id": "94763398509:49@s.whatsapp.net"
+    "id": "94763398509:49@s.whatsapp.net",
+    "lid": "103904436043899:49@lid",
+    "name": "🥰"
   },
   "account": {
     "details": "CJzA984DEMPp8sQGGAEgACgA",
@@ -78,5 +97,12 @@
       }
     }
   ],
-  "platform": "android"
+  "platform": "android",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CAIICA=="
+  },
+  "lastAccountSyncTimestamp": 1755100368,
+  "lastPropHash": "3R9Z39",
+  "myAppStateKeyId": "AAAAAAww"
 }
