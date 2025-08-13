@@ -74,8 +74,8 @@
       "messageTimestamp": 1755086353
     }
   ],
-  "nextPreKeyId": 31,
-  "firstUnuploadedPreKeyId": 31,
+  "nextPreKeyId": 33,
+  "firstUnuploadedPreKeyId": 33,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -85,7 +85,7 @@
   "me": {
     "id": "94704003368:2@s.whatsapp.net",
     "lid": "189550446030867:2@lid",
-    "name": "gaveesharashmika2008"
+    "name": "mini bot"
   },
   "account": {
     "details": "CPDG3s4CEP778cQGGAEgACgA",
