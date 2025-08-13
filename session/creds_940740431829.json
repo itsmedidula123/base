@@ -90,8 +90,8 @@
       "messageTimestamp": 1755087535
     }
   ],
-  "nextPreKeyId": 71,
-  "firstUnuploadedPreKeyId": 71,
+  "nextPreKeyId": 72,
+  "firstUnuploadedPreKeyId": 72,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -100,7 +100,7 @@
   "pairingCode": "F5F5J6EG",
   "me": {
     "id": "94740431829:6@s.whatsapp.net",
-    "name": "(   SL. @# udara. ₹₹&##  )",
+    "name": "(   SL. # udara. ₹₹&##  )",
     "lid": "131783018467535:6@lid"
   },
   "account": {
