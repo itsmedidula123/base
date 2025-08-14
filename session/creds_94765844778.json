@@ -98,8 +98,8 @@
       "messageTimestamp": 1755141582
     }
   ],
-  "nextPreKeyId": 856,
-  "firstUnuploadedPreKeyId": 856,
+  "nextPreKeyId": 952,
+  "firstUnuploadedPreKeyId": 952,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -109,7 +109,7 @@
   "me": {
     "id": "94765844778:52@s.whatsapp.net",
     "lid": "19765590544430:52@lid",
-    "name": "*@*(°•°)®™〽️"
+    "name": "94765844778"
   },
   "account": {
     "details": "CNa72PEBEIeq9cQGGAMgACgA",
