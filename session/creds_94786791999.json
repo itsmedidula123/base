@@ -86,7 +86,7 @@
   "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 1,
   "accountSettings": {
-    "unarchiveChats": false
+    "unarchiveChats": true
   },
   "registered": true,
   "pairingCode": "DD1D3ZPM",
