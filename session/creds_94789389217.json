@@ -49,8 +49,8 @@
   "registrationId": 70,
   "advSecretKey": "iinUycgLNES/wxyy3wwaYiIIe6nbThbsVfutKZ9YiP8=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 26,
+  "firstUnuploadedPreKeyId": 26,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "3LBMPP92",
   "me": {
     "id": "94789389217:18@s.whatsapp.net",
-    "name": "A"
+    "name": "A",
+    "lid": "274491896762497:18@lid"
   },
   "account": {
     "details": "CMH+gNoGEOCp+MQGGAMgACgA",
@@ -79,5 +80,11 @@
       }
     }
   ],
-  "platform": "smba"
+  "platform": "smba",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CBIIBQ=="
+  },
+  "lastAccountSyncTimestamp": 1755191648,
+  "lastPropHash": "2V77qU"
 }
