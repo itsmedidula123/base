@@ -74,8 +74,8 @@
       "messageTimestamp": 1755099303
     }
   ],
-  "nextPreKeyId": 122,
-  "firstUnuploadedPreKeyId": 122,
+  "nextPreKeyId": 123,
+  "firstUnuploadedPreKeyId": 123,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -84,7 +84,7 @@
   "pairingCode": "6M445NV6",
   "me": {
     "id": "94702264309:13@s.whatsapp.net",
-    "name": "Professor",
+    "name": "94702264309",
     "lid": "62569771450616:13@lid"
   },
   "account": {
