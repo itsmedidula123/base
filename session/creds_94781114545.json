@@ -90,8 +90,8 @@
       "messageTimestamp": 1755221338
     }
   ],
-  "nextPreKeyId": 31,
-  "firstUnuploadedPreKeyId": 31,
+  "nextPreKeyId": 64,
+  "firstUnuploadedPreKeyId": 64,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -101,7 +101,7 @@
   "me": {
     "id": "94781114545:40@s.whatsapp.net",
     "lid": "23030117965984:40@lid",
-    "name": "Lisath semal"
+    "name": "LSP"
   },
   "account": {
     "details": "CJ3r2t8JELKZ+sQGGAEgACgA",
@@ -126,7 +126,7 @@
     "type": "Buffer",
     "data": "CAUIAg=="
   },
-  "lastAccountSyncTimestamp": 1755221183,
+  "lastAccountSyncTimestamp": 1755222658,
   "lastPropHash": "PWk5B",
   "myAppStateKeyId": "AAAAAML5"
 }
