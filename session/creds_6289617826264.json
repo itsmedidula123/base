@@ -90,8 +90,8 @@
       "messageTimestamp": 1755258572
     }
   ],
-  "nextPreKeyId": 32,
-  "firstUnuploadedPreKeyId": 32,
+  "nextPreKeyId": 34,
+  "firstUnuploadedPreKeyId": 34,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -101,7 +101,7 @@
   "me": {
     "id": "6289617826264:32@s.whatsapp.net",
     "lid": "163295176700103:32@lid",
-    "name": "."
+    "name": "seventeen 💤"
   },
   "account": {
     "details": "CO6u+/sGEPC8/MQGGAEgACgA",
