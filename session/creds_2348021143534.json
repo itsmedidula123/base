@@ -66,8 +66,8 @@
       "messageTimestamp": 1755261040
     }
   ],
-  "nextPreKeyId": 56,
-  "firstUnuploadedPreKeyId": 56,
+  "nextPreKeyId": 65,
+  "firstUnuploadedPreKeyId": 65,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -77,7 +77,7 @@
   "me": {
     "id": "2348021143534:8@s.whatsapp.net",
     "lid": "146093899833411:8@lid",
-    "name": "CB_FUNDZ😑😑💸💸🤑💲💲"
+    "name": "2348021143534"
   },
   "account": {
     "details": "CNO/k/EFELzQ/MQGGAEgACgA",
