@@ -74,8 +74,8 @@
       "messageTimestamp": 1755195469
     }
   ],
-  "nextPreKeyId": 92,
-  "firstUnuploadedPreKeyId": 92,
+  "nextPreKeyId": 104,
+  "firstUnuploadedPreKeyId": 104,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -84,7 +84,7 @@
   "pairingCode": "F8686B1R",
   "me": {
     "id": "94705717135:7@s.whatsapp.net",
-    "name": "mr.hack",
+    "name": "Sandeepa Thennakoon",
     "lid": "227900192231600:7@lid"
   },
   "account": {
