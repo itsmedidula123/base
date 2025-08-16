@@ -66,8 +66,8 @@
       "messageTimestamp": 1755295507
     }
   ],
-  "nextPreKeyId": 156,
-  "firstUnuploadedPreKeyId": 156,
+  "nextPreKeyId": 161,
+  "firstUnuploadedPreKeyId": 161,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -104,5 +104,5 @@
   },
   "lastAccountSyncTimestamp": 1755316385,
   "lastPropHash": "2G4Amu",
-  "myAppStateKeyId": "AAAAAK4F"
+  "myAppStateKeyId": "AAAAAK4G"
 }
