@@ -1,0 +1,212 @@
+{
+  "noiseKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "2LJIR04pzbXWyhyhPAahFmqh4R0Dfahw+f0EGcF8RnI="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "sxpwnD4GAN67BDdON9c47X9g+BIadB2pCeDzJgDyvzg="
+    }
+  },
+  "pairingEphemeralKeyPair": {
+    "private": {
+      "type": "Buffer",
+      "data": "mDK8Y9ISb4L4JlagWsygLBHbQH7X3ni+9oHWjcZclEc="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "XO4dDkqZN5q7obS0uQ4vlF7pzRJijrlbE0kmolvA7Ck="
+    }
+  },
+  "signedIdentityKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "kPB6E7gJAOilGea85xjaM33YN2ZTuLyHtDRC3C0xd2E="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "2L/6RyeoqUw/KsHYJflVq/fVGSEZ+SMhr/D9gbgo/X8="
+    }
+  },
+  "signedPreKey": {
+    "keyPair": {
+      "private": {
+        "type": "Buffer",
+        "data": "oMRBbE+KYcEqipJ2pR7Bu3gy/HQRC0bwTWDv/cQTKn0="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "2D+ZQDU0zcOr/2pSgbIah/s4NwcCPHQkIagYbf9lZkA="
+      }
+    },
+    "signature": {
+      "type": "Buffer",
+      "data": "0R8dlVeM8Lb7upn4Xdyl17uLN8YHn5evIqauvrgF/w2doyR68mBi4xmMKWSaDLYi6MnsECRpR6ZSCKyjQ6YDjA=="
+    },
+    "keyId": 1
+  },
+  "registrationId": 120,
+  "advSecretKey": "GDnFU8FdAKfRwgkQuCXyHUA78YQUm8Rea0Kev4utl2Q=",
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "94723682064@s.whatsapp.net",
+        "fromMe": true,
+        "id": "CBCEAB2FD95DB06DCE7B43D30B9A3C55"
+      },
+      "messageTimestamp": 1755363919
+    },
+    {
+      "key": {
+        "remoteJid": "94723682064@s.whatsapp.net",
+        "fromMe": true,
+        "id": "059552F4492ADD8695852124BC10C7CA"
+      },
+      "messageTimestamp": 1755363927
+    },
+    {
+      "key": {
+        "remoteJid": "94723682064@s.whatsapp.net",
+        "fromMe": true,
+        "id": "9B0F04EDE51D34DAAE415E72CEFD8519"
+      },
+      "messageTimestamp": 1755363945
+    },
+    {
+      "key": {
+        "remoteJid": "94723682064@s.whatsapp.net",
+        "fromMe": true,
+        "id": "8357BD68F367B77DB38A21B3AB472613"
+      },
+      "messageTimestamp": 1755363950
+    },
+    {
+      "key": {
+        "remoteJid": "94723682064@s.whatsapp.net",
+        "fromMe": true,
+        "id": "295DE4879E526BEDDCEBBD3D397F0259"
+      },
+      "messageTimestamp": 1755363976
+    },
+    {
+      "key": {
+        "remoteJid": "94723682064@s.whatsapp.net",
+        "fromMe": true,
+        "id": "BAC023D8C4D28F4F0209D7B89966941A"
+      },
+      "messageTimestamp": 1755363977
+    },
+    {
+      "key": {
+        "remoteJid": "94723682064@s.whatsapp.net",
+        "fromMe": true,
+        "id": "4BD063AC2BAB21A0B33FDF154F11F877"
+      },
+      "messageTimestamp": 1755363986
+    },
+    {
+      "key": {
+        "remoteJid": "94723682064@s.whatsapp.net",
+        "fromMe": true,
+        "id": "5A605761A8184F125937C7B4D77FE87D"
+      },
+      "messageTimestamp": 1755363995
+    },
+    {
+      "key": {
+        "remoteJid": "94723682064@s.whatsapp.net",
+        "fromMe": true,
+        "id": "637D05ABDBA849ABCDD7B872DCCA6406"
+      },
+      "messageTimestamp": 1755364004
+    },
+    {
+      "key": {
+        "remoteJid": "94723682064@s.whatsapp.net",
+        "fromMe": true,
+        "id": "7DE7900BAF48D1B6E60E1008852514A4"
+      },
+      "messageTimestamp": 1755364014
+    },
+    {
+      "key": {
+        "remoteJid": "94723682064@s.whatsapp.net",
+        "fromMe": true,
+        "id": "236DCFA985153EFA852C8D867F58BB8E"
+      },
+      "messageTimestamp": 1755364021
+    },
+    {
+      "key": {
+        "remoteJid": "94723682064@s.whatsapp.net",
+        "fromMe": true,
+        "id": "51B86B3FB6816EC908369E74537931B2"
+      },
+      "messageTimestamp": 1755364034
+    },
+    {
+      "key": {
+        "remoteJid": "94723682064@s.whatsapp.net",
+        "fromMe": true,
+        "id": "00F1A4A03E0667AF7F52D09E37EEE4EA"
+      },
+      "messageTimestamp": 1755364044
+    },
+    {
+      "key": {
+        "remoteJid": "94723682064@s.whatsapp.net",
+        "fromMe": true,
+        "id": "EE9998CE2D4E142DADE26002E824EEFC"
+      },
+      "messageTimestamp": 1755364058
+    },
+    {
+      "key": {
+        "remoteJid": "94723682064@s.whatsapp.net",
+        "fromMe": true,
+        "id": "B5F291195DC0C2003600930DEB9EE15F"
+      },
+      "messageTimestamp": 1755364070
+    }
+  ],
+  "nextPreKeyId": 57,
+  "firstUnuploadedPreKeyId": 57,
+  "accountSyncCounter": 1,
+  "accountSettings": {
+    "unarchiveChats": false
+  },
+  "registered": true,
+  "pairingCode": "XFESSJQY",
+  "me": {
+    "id": "94723682064:25@s.whatsapp.net",
+    "lid": "66194522538102:25@lid",
+    "name": "𝚁𝚃𝚇_𝙶𝙴𝚅𝙸𝙽❤‍🔥"
+  },
+  "account": {
+    "details": "CNur45YFELn0gsUGGAQgACgA",
+    "accountSignatureKey": "nphtQsurK45x8/FVPKitJR3TOrRxm5SaqH9xCvB95Xs=",
+    "accountSignature": "Ok9OQfzwuRsKoDdP7sgqLwuTfuP7SM86kDQnee73Vn7wK9q+D2rHwPbTZUApT6tPLZe1cKTDXegImqH8QkagBg==",
+    "deviceSignature": "Q71jIpFjH20gvOcg43t9yPYe03TZ48V/9WzI/E8/glQ/6ibURMbWPRdR/BnkuoD+OTthbK/yx9j653efS15ahw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94723682064:25@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BZ6YbULLqyuOcfPxVTyorSUd0zq0cZuUmqh/cQrwfeV7"
+      }
+    }
+  ],
+  "platform": "android",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CAIIEg=="
+  },
+  "lastAccountSyncTimestamp": 1755363910,
+  "lastPropHash": "PWk5B",
+  "myAppStateKeyId": "AAAAAHnJ"
+}
