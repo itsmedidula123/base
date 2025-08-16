@@ -1,0 +1,107 @@
+{
+  "noiseKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "8KzoVKmFLHWuIvP9LkZDA74tkFtJUD3zTv09MNrmnHo="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "IyJognzMrKweb5GQEw62Z9BaX56z5c6cSoHiXur382E="
+    }
+  },
+  "pairingEphemeralKeyPair": {
+    "private": {
+      "type": "Buffer",
+      "data": "UGPDJd/QjLjKJAXkdZU8s3vRrYs3Quf6xeyirS/wPEE="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "G+bZDyDZenH0rr1IsUpVgZEKrD0YawUOxGTeRwW+j2A="
+    }
+  },
+  "signedIdentityKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "qLrfNbybv9vC5lY0r+DndUFQdVgB8BO06H5hGRbrDEA="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "823jDuXvYa2exmrwLXomqT9YEtq7ulA9+uvuJ49bTzw="
+    }
+  },
+  "signedPreKey": {
+    "keyPair": {
+      "private": {
+        "type": "Buffer",
+        "data": "AAru28fX3gvCpsXABF8hku0G5GwEofb5vybhnNIgsl8="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "tMKjjVc+rw1LL/n6K+HFkPHtfNFt/uRGHb5f1glP10M="
+      }
+    },
+    "signature": {
+      "type": "Buffer",
+      "data": "TfVNntWY+whFcxhesGvmCuphlZ3KkpZquws+nnYk5OulQKA1U/Q/+rA5HkZn0CbxOV7Ac4JQjpsChZ9sDDYyBA=="
+    },
+    "keyId": 1
+  },
+  "registrationId": 25,
+  "advSecretKey": "TLRbntOfZPWEONF70Ilw9a+Ju33GbP4w2ftsuZ2GTAE=",
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "263719925206@s.whatsapp.net",
+        "fromMe": true,
+        "id": "7EDBD4FC2A5A17503C0B130C21953013"
+      },
+      "messageTimestamp": 1755368781
+    },
+    {
+      "key": {
+        "remoteJid": "263719925206@s.whatsapp.net",
+        "fromMe": true,
+        "id": "560CFB4591412BD627E05BAD9FE40956"
+      },
+      "messageTimestamp": 1755368787
+    }
+  ],
+  "nextPreKeyId": 35,
+  "firstUnuploadedPreKeyId": 35,
+  "accountSyncCounter": 0,
+  "accountSettings": {
+    "unarchiveChats": false
+  },
+  "registered": true,
+  "pairingCode": "Q6Z17VJV",
+  "me": {
+    "id": "263719925206:82@s.whatsapp.net",
+    "name": "Tysie Electrical Services",
+    "lid": "266717955641369:82@lid"
+  },
+  "account": {
+    "details": "CK3O3+MGELmag8UGGAEgACgA",
+    "accountSignatureKey": "9FxL5XYRqwYqKJHDWAEcL6cpqicmro2sPCm/bHGHPl8=",
+    "accountSignature": "cINxpl5qnwLr3m+i+WuCbP1Vwm86PR5uFnXgdbr+PVRatuH0T9/OCAIabAybV2/EN8li0+SBE9V/WrS2yGMeAA==",
+    "deviceSignature": "hRwLH420wnMn/xNa4oWX1wWRBu2tIYdfnshL2nTKp2esbJLXPIMiS/sP/ioB8ncfBu7R8N8sDVi2ag98kwvMBg=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "263719925206:82@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BfRcS+V2EasGKiiRw1gBHC+nKaonJq6NrDwpv2xxhz5f"
+      }
+    }
+  ],
+  "platform": "smba",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CBIIDQ=="
+  },
+  "lastAccountSyncTimestamp": 1755368776,
+  "lastPropHash": "3gPUJk"
+}
