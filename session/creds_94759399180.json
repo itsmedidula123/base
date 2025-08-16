@@ -1,0 +1,108 @@
+{
+  "noiseKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "4JRyigtrAC49qdIfHC/wsyxmO7l08davQaY0bfGU5H4="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "bQLadRtWayPFBKlTVP1XW59LVFIdiT2v666aAidDAEo="
+    }
+  },
+  "pairingEphemeralKeyPair": {
+    "private": {
+      "type": "Buffer",
+      "data": "YO5DFfRvZgMmSiRC3SsIM9M2DTD1eCi/xocYGCpxDUg="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "fgQV/b0kMqYG/4ThNFDhRjj6qPZ9oBo9a4nrcU3oPkw="
+    }
+  },
+  "signedIdentityKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "MOd/mpn6+fjO2jU4LAq0w//liKM4z19te9bye2a1Q3M="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "YYgs9O11xr3C/XohNHUnJtaeEbs1dLz6PCe33HSqLCo="
+    }
+  },
+  "signedPreKey": {
+    "keyPair": {
+      "private": {
+        "type": "Buffer",
+        "data": "OAL9Iiw3K4+LvROGWwCWgOA6K1zFUqXn7HGoRh51B3A="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "6X4anjuwJbbXeGaf7XM7Bc6L9LTTYvQSFKHqlfeGrjA="
+      }
+    },
+    "signature": {
+      "type": "Buffer",
+      "data": "fJ3iRHiEkNbHmDEn7wC6BnY2UMYh/L71wvY6OAQPsaMZp/Cua8GCLiYy988mofad/MZ3qtr+fvRmCeuxxwO/ig=="
+    },
+    "keyId": 1
+  },
+  "registrationId": 174,
+  "advSecretKey": "iNTTH656YMhEcdXNlggY20xth0jOSMfSiDXKw5ePdNw=",
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "94759399180@s.whatsapp.net",
+        "fromMe": true,
+        "id": "877A2BC6A46FFE5C78D7FB712C96C3E2"
+      },
+      "messageTimestamp": 1755364629
+    },
+    {
+      "key": {
+        "remoteJid": "94759399180@s.whatsapp.net",
+        "fromMe": true,
+        "id": "7013C01E5E5DAA7C1ECDADAD5CF79CC5"
+      },
+      "messageTimestamp": 1755364637
+    }
+  ],
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
+  "accountSyncCounter": 1,
+  "accountSettings": {
+    "unarchiveChats": false
+  },
+  "registered": true,
+  "pairingCode": "BSR4KL1G",
+  "me": {
+    "id": "94759399180:41@s.whatsapp.net",
+    "name": "< 𝕆𝕝𝕕 𝕂𝕚𝕟𝕘 ℙ𝕒𝕧𝕚 𝔹𝕠𝕪  𝕤𝕥𝕒𝕥𝕤 𝕨𝕚𝕖𝕧𝕤 >",
+    "lid": "182588069179569:41@lid"
+  },
+  "account": {
+    "details": "CM6Lv8EGEPr5gsUGGBUgACgA",
+    "accountSignatureKey": "Aw9oXcb5msRyrI7DD4BTghq6g9MvUDLBEl+aW4ebBiU=",
+    "accountSignature": "OqZEW91lGD9tVl/kt3Oe6x9iKxxjeY7CLtbzQCOim3Zeh33+J5NSpHjbCiDqUI0GZRQPxXI0jknGtAI/HUzmBw==",
+    "deviceSignature": "S3RbDxXjb9u/u0q2bClU/83DX5FODiKZ4Eyalj2VBJ0NezfiI15B5LMijjj6ZhNRQjIEhubmK956DHXn2CdfjQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94759399180:41@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BQMPaF3G+ZrEcqyOww+AU4IauoPTL1AywRJfmluHmwYl"
+      }
+    }
+  ],
+  "platform": "smba",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CAgIBQ=="
+  },
+  "lastAccountSyncTimestamp": 1755364615,
+  "lastPropHash": "2V77qU",
+  "myAppStateKeyId": "AAAAAKFx"
+}
