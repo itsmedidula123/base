@@ -90,8 +90,8 @@
       "messageTimestamp": 1755369442
     }
   ],
-  "nextPreKeyId": 42,
-  "firstUnuploadedPreKeyId": 42,
+  "nextPreKeyId": 50,
+  "firstUnuploadedPreKeyId": 50,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -101,7 +101,7 @@
   "me": {
     "id": "263781835690:6@s.whatsapp.net",
     "lid": "130369840001223:6@lid",
-    "name": "TSG"
+    "name": "Heist"
   },
   "account": {
     "details": "CMvDmuEBEJ2eg8UGGAMgACgA",
